@@ -1,7 +1,6 @@
 Este repositorio alberga los archivos Docker Compose de CTFd y NGINX Proxy. Este último añade el certificado SSL proporcionado por el contenedor NGINX Proxy, modificando así el archivo Docker Compose de CTFd. Solo toma en cuenta el docker compose que hay en la raiz, los archivos de las carpetas ya no sirven :( 
 
 
-Aquí tienes un README mejorado con las indicaciones:
 
 ---
 

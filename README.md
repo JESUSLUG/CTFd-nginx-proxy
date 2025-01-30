@@ -4,7 +4,7 @@ Este repositorio alberga los archivos Docker Compose de CTFd y NGINX Proxy. Este
 
 ---
 
-# Instrucciones de Actualización
+# Instrucciones
 
 1. **Clonar el repositorio de CTFd**  
    Primero, realiza un `git clone` del repositorio de CTFd desde GitHub:

@@ -15,7 +15,7 @@ Aquí tienes un README mejorado con las indicaciones:
    ```
 
 2. **Obtener el commit correcto**  
-   Dirígete a la versión correspondiente del repositorio de CTFd. Asegúrate de utilizar el commit `3895558` para la actualización:
+   Dirígete a la versión correspondiente del repositorio de CTFd. Asegúrate de utilizar el commit `3895558` para la actualización, que es la version actual del 29/01/2025:
 
    ```bash
    cd CTFd

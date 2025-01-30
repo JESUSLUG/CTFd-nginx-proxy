@@ -23,7 +23,7 @@ Aquí tienes un README mejorado con las indicaciones:
    ```
 
 3. **Actualizar el archivo `docker-compose.yml`**  
-   Copia el contenido del archivo `docker-compose.yml` que se encuentra en la raíz de este repositorio (tu repositorio actual) y pégalo en el archivo `docker-compose.yml` del repositorio de CTFd que acabas de clonar.
+   Copia el contenido del archivo `docker-compose.yml` que se encuentra en la raíz de este repositorio (tu repositorio actual) y pégalo en el archivo `docker-compose.yml` del repositorio de CTFd que acabas de clonar. (Olvide decir que dentro de docker compose de este repo, hay un comentario # Agrega tu domnio, cambialo ... por tu ya sabes ...) 
 
 4. **Levantar los contenedores**  
    Una vez que hayas reemplazado el archivo `docker-compose.yml`, ejecuta el siguiente comando para iniciar los contenedores en segundo plano:
